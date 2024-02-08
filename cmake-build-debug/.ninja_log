@@ -1,0 +1,13 @@
+# ninja log v5
+1	799	7291246653068126	CMakeFiles/huffman_encoder.dir/main.cpp.obj	4a05ed29d8c576de
+801	1255	7291246657580965	huffman_encoder.exe	142e4c2375f1223
+4	774	7291248686877116	CMakeFiles/huffman_encoder.dir/main.cpp.obj	4a05ed29d8c576de
+775	1235	7291248691426387	huffman_encoder.exe	142e4c2375f1223
+3	693	7291251259777491	CMakeFiles/huffman_encoder.dir/main.cpp.obj	4a05ed29d8c576de
+694	1142	7291251264184173	huffman_encoder.exe	142e4c2375f1223
+4	746	7291381306413933	CMakeFiles/huffman_encoder.dir/main.cpp.obj	4a05ed29d8c576de
+747	1213	7291381311016858	huffman_encoder.exe	142e4c2375f1223
+4	715	7291382931260466	CMakeFiles/huffman_encoder.dir/main.cpp.obj	4a05ed29d8c576de
+716	1159	7291382935628550	huffman_encoder.exe	142e4c2375f1223
+3	675	7291383302207915	CMakeFiles/huffman_encoder.dir/main.cpp.obj	4a05ed29d8c576de
+676	1135	7291383306729273	huffman_encoder.exe	142e4c2375f1223

@@ -1,0 +1,3 @@
+C:/Users/H460351/CLionProjects/huffman-encoder/cmake-build-debug/CMakeFiles/huffman_encoder.dir
+C:/Users/H460351/CLionProjects/huffman-encoder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/H460351/CLionProjects/huffman-encoder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
