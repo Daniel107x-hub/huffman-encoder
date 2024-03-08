@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_huffman_encoder: phony || CMakeFiles/huf
 
 build CMakeFiles/huffman_encoder.dir/src/main.cpp.obj: CXX_COMPILER__huffman_encoder_unscanned_Debug C$:/Users/H460351/CLionProjects/huffman-encoder/src/main.cpp || cmake_object_order_depends_target_huffman_encoder
   DEP_FILE = CMakeFiles\huffman_encoder.dir\src\main.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\huffman_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\huffman_encoder.dir\src
 
@@ -61,16 +61,16 @@ build CMakeFiles/huffman_encoder.dir/src/main.cpp.obj: CXX_COMPILER__huffman_enc
 
 
 #############################################
-# Link the executable huffman_encoder.exe
+# Link the executable C:\Users\H460351\CLionProjects\huffman-encoder\bin\Windows64\Debug\huffman_encoder.exe
 
-build huffman_encoder.exe: CXX_EXECUTABLE_LINKER__huffman_encoder_Debug CMakeFiles/huffman_encoder.dir/src/main.cpp.obj
+build C$:/Users/H460351/CLionProjects/huffman-encoder/bin/Windows64/Debug/huffman_encoder.exe: CXX_EXECUTABLE_LINKER__huffman_encoder_Debug CMakeFiles/huffman_encoder.dir/src/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\huffman_encoder.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = huffman_encoder.exe
-  TARGET_IMPLIB = libhuffman_encoder.dll.a
+  TARGET_FILE = C:\Users\H460351\CLionProjects\huffman-encoder\bin\Windows64\Debug\huffman_encoder.exe
+  TARGET_IMPLIB = "C:\Users\H460351\CLionProjects\huffman-encoder\bin\Windows64\Debug\static libs\libhuffman_encoder.dll.a"
   TARGET_PDB = huffman_encoder.exe.dbg
 
 
@@ -99,7 +99,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build huffman_encoder: phony huffman_encoder.exe
+build huffman_encoder: phony C$:/Users/H460351/CLionProjects/huffman-encoder/bin/Windows64/Debug/huffman_encoder.exe
+
+build huffman_encoder.exe: phony C$:/Users/H460351/CLionProjects/huffman-encoder/bin/Windows64/Debug/huffman_encoder.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +111,7 @@ build huffman_encoder: phony huffman_encoder.exe
 #############################################
 # Folder: C:/Users/H460351/CLionProjects/huffman-encoder/cmake-build-debug
 
-build all: phony huffman_encoder.exe
+build all: phony C$:/Users/H460351/CLionProjects/huffman-encoder/bin/Windows64/Debug/huffman_encoder.exe
 
 # =============================================================================
 # Built-in targets

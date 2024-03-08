@@ -32,4 +32,8 @@
 *.app
 
 cmake-build-debug
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
 CMakeFiles
+bin

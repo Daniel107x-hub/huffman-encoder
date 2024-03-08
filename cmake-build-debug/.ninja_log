@@ -1,6 +1,14 @@
 # ninja log v5
 3	660	7308434530097224	CMakeFiles/huffman_encoder.dir/main.cpp.obj	bd831fc9547b7dff
 66	342	7308499526164256	CMakeFiles/tester.dir/tests/mainTests.cpp.obj	8240d6b3e1567d70
-703	1120	7308499533935143	huffman_encoder.exe	f7d601d02be35496
-4	647	7308669995475197	build.ninja	6b100168a6839d3d
-4	673	7308499732739171	CMakeFiles/huffman_encoder.dir/src/main.cpp.obj	ea7969329c238057
+803	1260	7316369242604601	huffman_encoder.exe	f7d601d02be35496
+1	654	7316370102472158	build.ninja	6b100168a6839d3d
+4	802	7316369238107558	CMakeFiles/huffman_encoder.dir/src/main.cpp.obj	e7c54b9a0eec5cc8
+1	631	7316370102472158	build.ninja	6b100168a6839d3d
+4	430	7316370107696989	C:/Users/H460351/CLionProjects/huffman-encoder/bin/Windows64/Debug/huffman_encoder.exe	33702b918acee05e
+3	879	7316372160740939	CMakeFiles/huffman_encoder.dir/src/main.cpp.obj	e7c54b9a0eec5cc8
+880	1356	7316372165428500	C:/Users/H460351/CLionProjects/huffman-encoder/bin/Windows64/Debug/huffman_encoder.exe	33702b918acee05e
+3	1007	7316372740394437	CMakeFiles/huffman_encoder.dir/src/main.cpp.obj	e7c54b9a0eec5cc8
+1008	1502	7316372745284682	C:/Users/H460351/CLionProjects/huffman-encoder/bin/Windows64/Debug/huffman_encoder.exe	33702b918acee05e
+3	803	7316373026879983	CMakeFiles/huffman_encoder.dir/src/main.cpp.obj	e7c54b9a0eec5cc8
+804	1248	7316373031254167	C:/Users/H460351/CLionProjects/huffman-encoder/bin/Windows64/Debug/huffman_encoder.exe	33702b918acee05e
